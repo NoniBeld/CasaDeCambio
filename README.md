@@ -37,7 +37,7 @@ Puedes clonar este proyecto utilizando Git:
 bash
 Copiar
 Editar
-git clone https://github.com/tu_usuario/CasaDeCambio.git
+git clone https://github.com/NoniBeld/CasaDeCambio.git
 
 2. Instalar Dependencias
 Asegúrate de tener la librería Gson en tu proyecto. Si usas Eclipse o un IDE similar, puedes agregarlo manualmente o usar Maven para gestionar dependencias.
